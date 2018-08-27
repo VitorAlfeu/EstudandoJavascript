@@ -1,0 +1,5 @@
+<html>
+	<head>
+		<title>Minha primeira página em JavaScript</title>
+	</head>
+</html>
